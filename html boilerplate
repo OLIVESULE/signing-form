@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home page</title>
+</head>
+<body>
+    <h1>home page</h1>
+    <section>
+        <!-- form in html => data collection-->
+        <form>
+            <label>enter your name :</label><br>
+            <input type="text"placeholder="name">
+            <input type="submit"value="send"><br>
+            <br />
+            <label>enter date of birth:</label><br>
+            <input type="date">
+            <input type="submit"value="send"><br>
+            <br />
+            <label>input pet </label>
+             <select>
+                <option>dog</option>
+                <option>cat</option>
+                <option>rat</option>
+             </select>
+             </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>user form</title>
+</head>
+<body><h1>home page</h1>
+<section>
+    <form>
+        <label>first name:</label>
+        <input type="text" placeholder="surname">
+        <br />
+        <label>second name:</label>
+        <input type="text"placeholder="middlename">
+        <br>
+        <label>lastname:</label>
+        <input type="text"placeholder="lastname">
+        <br>
+        <label>enter date of birth:</label>
+        <input type="date">
+        <br>
+        <label>favourite pet:</label>
+        <select>
+            <option>dog</option>
+            <option>cat</option>
+            <option>rat</option>
+            <option>rabbit</option>
+            <option>goat</option>
+        </select>
+        <br>
+        <label>what do you think about the chorela outbreak:</label>
+        <input type="text">
+        <br>
+        <input type="submit"value=
+        "send">
+    </form>
+</section>
+
+    
+</body>
+</html>
